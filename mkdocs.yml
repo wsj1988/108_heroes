@@ -1,0 +1,6 @@
+site_name: 108 Heroes of the Marshes
+pages:
+- 108好汉: index.md
+- 36天罡: 36.md
+- 72地煞: 72.md
+theme: readthedocs
